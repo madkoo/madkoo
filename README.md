@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I am Madis
 
-<!--
-**madkoo/madkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## __DevOps Engineer and Consultant @Solidify__
 
-Here are some ideas to get you started:
+#### ___Feel free to contact me:___
+[![Linkedin Badge](https://img.shields.io/badge/-MathiasBidstrup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madiskoosaar/)](https://www.linkedin.com/in/madiskoosaar/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## __Stats__
+
+[![Madis Koosaar](https://github-readme-stats.vercel.app/api?username=madkoo&show_icons=true&count_private=true&theme=dark)](https://https://github.com/madkoo)
+
