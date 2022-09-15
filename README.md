@@ -3,7 +3,7 @@
 ## __DevOps Engineer and Consultant @Solidify__
 
 #### ___Feel free to contact me:___
-[![Linkedin Badge](https://img.shields.io/badge/-MathiasBidstrup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madiskoosaar/)](https://www.linkedin.com/in/madiskoosaar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MadisKoosaar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madiskoosaar/)](https://www.linkedin.com/in/madiskoosaar/) 
 
 
 
