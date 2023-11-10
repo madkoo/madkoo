@@ -11,20 +11,18 @@ const madkoo = {
             [".NET", ".NET Core", "C#"]
         },
         scripting: {
-            ["PowerShell","JavaScript","Python"]
+            ["TypeScript","JavaScript","PowerShell","Python"]
         },
         devOps: ["Azure", "GH Actions", "Docker🐳", "Biceps/ARM","Terraform"  ],
         databases: ["MSSQL", "PostgreSQL", "sqlite", "NoSql"],
     },
-    certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security", "DevOps Engineer Expert", "AZ-204"],
+    certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security","Github Fundametals","Microsoft: DevOps Engineer Expert", "Microsoft: Cybersecurity Architect Expert"],
     currentFocus: "Consulting on DevOps methods and technologies"
 };
 ```
 
 #### 📫 ___Feel free to contact me:___
 [![Linkedin Badge](https://img.shields.io/badge/-MadisKoosaar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madiskoosaar/)](https://www.linkedin.com/in/madiskoosaar/) 
-
-
 
 ## __Stats__
 
