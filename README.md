@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Madis
 
-## __DevOps Engineer and Consultant @Solidify__
+## __Solution Architect and Consultant @Solidify__
 
 ```javascript
 const madkoo = {
