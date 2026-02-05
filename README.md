@@ -16,7 +16,7 @@ I'm a Principal Consultant at **Solidify/Eficode**, working together with the **
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,powershell,azure,github,githubactions,docker,terraform,kubernetes,postgres,mysql,sqlite,git,vscode,visualstudio,linux,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,powershell,azure,github,githubactions,docker,terraform,kubernetes,bitbucket,gitlab,postgres,mysql,sqlite,git,vscode,visualstudio,linux,bash&perline=10" />
   </a>
 </p>
 
