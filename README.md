@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Principal Consultant at **Solidify/Eficode**, specializing in:
+I'm a Principal Consultant at **Solidify/Eficode**, working together with the **GitHub Experts Service Team**, specializing in:
 
 - 🔧 Platform Engineering & Developer Experience (DevEx)
 - ☁️ Cloud Infrastructure & Automation (Azure, IaC)
@@ -14,10 +14,16 @@ I'm a Principal Consultant at **Solidify/Eficode**, specializing in:
 
 ## 💻 Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,powershell,azure,github,githubactions,docker,terraform,kubernetes,postgres,mysql,sqlite,git,vscode,visualstudio,linux,bash&perline=10" />
+  </a>
+</p>
+
 ```yaml
 code: [".NET", ".NET Core", "C#"]
 scripting: ["TypeScript", "JavaScript", "PowerShell", "Python"]
-devops: ["Azure", "GitHub Actions", "Docker", "Terraform", "Bicep/ARM"]
+devops: ["Azure", "GitHub Actions", "Docker", "Terraform", "Kubernetes"]
 databases: ["MSSQL", "PostgreSQL", "SQLite", "NoSQL"]
 focus: ["DevOps Transformation", "Platform Engineering", "IaC", "CI/CD"]
 ```
