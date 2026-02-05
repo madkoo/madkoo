@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Solution Architect and Consultant at **Solidify**, specializing in:
+I'm a Principal Consultant at **Solidify/Eficode**, specializing in:
 
 - 🔧 Platform Engineering & Developer Experience (DevEx)
 - ☁️ Cloud Infrastructure & Automation (Azure, IaC)
