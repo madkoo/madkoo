@@ -1,30 +1,52 @@
-### 👋 Hi there, I am Madis
+# 👋 Hi, I'm Madis Koosaar
 
-## __Solution Architect and Consultant @Solidify__
+> **Platform Engineer building better DevEx through automation and IaC. Passionate about DevOps culture and technical leadership.**
 
-```javascript
-const madkoo = {
-    pronouns: "He" | "Him",
-    askMeAbout: [".NET","DevOps", "ALM", "GitHub", "Azure", "Development", "Sports","Games"],
-    technologies: {
-        code: {
-            [".NET", ".NET Core", "C#"]
-        },
-        scripting: {
-            ["TypeScript","JavaScript","PowerShell","Python"]
-        },
-        devOps: ["Azure", "GH Actions", "Docker🐳", "Biceps/ARM","Terraform"  ],
-        databases: ["MSSQL", "PostgreSQL", "sqlite", "NoSql"],
-    },
-    certifications: ["GitHub Actions", "GitHub Administration", "GitHub Advanced Security","Github Fundametals","Microsoft: DevOps Engineer Expert", "Microsoft: Cybersecurity Architect Expert"],
-    currentFocus: "Consulting on DevOps methods and technologies"
-};
+## 🚀 About Me
+
+I'm a Principal Consultant at **Solidify/Eficode**, working together with the **GitHub Experts Service Team**, specializing in:
+
+- 🔧 Platform Engineering & Developer Experience (DevEx)
+- ☁️ Cloud Infrastructure & Automation (Azure, IaC)
+- 🔄 DevOps Culture & Practices
+- 🔐 Security & Compliance
+- 📈 Technical Leadership & Consulting
+
+## 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,python,powershell,azure,github,githubactions,docker,terraform,kubernetes,postgres,mysql,sqlite,git,vscode,visualstudio,linux,bash&perline=10" />
+  </a>
+</p>
+
+```yaml
+code: [".NET", ".NET Core", "C#"]
+scripting: ["TypeScript", "JavaScript", "PowerShell", "Python"]
+devops: ["Azure", "GitHub Actions", "Docker", "Terraform", "Kubernetes"]
+databases: ["MSSQL", "PostgreSQL", "SQLite", "NoSQL"]
+focus: ["DevOps Transformation", "Platform Engineering", "IaC", "CI/CD"]
 ```
 
-#### 📫 ___Feel free to contact me:___
-[![Linkedin Badge](https://img.shields.io/badge/-MadisKoosaar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madiskoosaar/)](https://www.linkedin.com/in/madiskoosaar/) 
+## 🎓 Certifications & Badges
 
-## __Stats__
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
-[![Madis Koosaar](https://github-readme-stats.vercel.app/api?username=madkoo&show_icons=true&count_private=true&theme=dark)](https://https://github.com/madkoo)
+**Key Certifications:**
+- ✅ GitHub Actions
+- ✅ GitHub Administration  
+- ✅ GitHub Advanced Security
+- ✅ GitHub Fundamentals
+- ✅ Microsoft DevOps Engineer Expert
+- ✅ Microsoft Cybersecurity Architect Expert
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Madis_Koosaar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madiskoosaar/)
+[![Credly](https://img.shields.io/badge/-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/madis-koosaar)
+
+## 📊 GitHub Stats
+
+![Madis's GitHub stats](https://github-readme-stats.vercel.app/api?username=madkoo&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
 
